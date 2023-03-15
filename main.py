@@ -31,3 +31,6 @@ if __name__ == '__main__':
     ax.axis([0,8,0,8])
     ax.scatter(pts_x,pts_y)
     plt.show()
+
+	# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+	
